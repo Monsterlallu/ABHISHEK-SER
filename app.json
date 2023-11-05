@@ -1,9 +1,9 @@
 {
-  "name": "ABHISHEK-SER",
+  "name": "RAJU-SER",
   "description": "Customizable WhatsApp Bot",
-  "repository": "https://github.com/AbhishekSuresh2/ABHISHEK-SER",
+  "repository": "https://github.com/Monsterlallu/ABHISHEK-SER",
   "logo": "https://replicate.delivery/pbxt/QbP6Fh3ZXwKON9SCB70ERGwwgeeSbztwKIOIzhUeXFkwnFHiA/out.png",
-  "keywords": ["bot", "whatsapp", "whatsapp-bot", "ABHISHEK-SER", "wa-bot", "THIS IS TAGS I REMOVE SOME TAGS"],
+  "keywords": ["bot", "whatsapp", "whatsapp-bot", "RAJU-SER", "wa-bot", "THIS IS TAGS I REMOVE SOME TAGS"],
   "buildpacks": [
     {
       "url": "heroku/nodejs"
