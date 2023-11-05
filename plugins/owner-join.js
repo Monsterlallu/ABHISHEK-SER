@@ -29,9 +29,9 @@ let handler = async (m, { conn, text, usedPrefix, command, args, participants, i
   else global.db.data.chats[res].expired = now + nDays
   if (e.length) await m.reply(`✅ I Successfully Joined The Group \n\n≡ *Group Info* \n\n *Name :* ${await conn.getName(res)}\n\nThe Bot Will Exit Automatically After \n\n${msToDate(global.db.data.chats[res].expired - now)}`)
  
- if (e.length) await conn.reply(res, `*🎯 Hello Guys ABHISHEK-SER Bot Here!*
+ if (e.length) await conn.reply(res, `*🎯 Hello Guys RAJU Bot Is Here!*
 
-@919074692450 He Is My Creator If You Have Any Doubt
+@917736129238 He Is My Creator If You Have Any Doubt
 I Was Invited By *${m.name}*`, m, {
     mentions: d
      }).then(async () => {
