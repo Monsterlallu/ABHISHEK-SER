@@ -23,11 +23,11 @@ Function(
         options.linkPreview = {
                renderLargerThumbnail: true,
                showAdAttribution: true,
-               title: "𝔸𝔹ℍ𝕀𝕊ℍ𝔼𝕂 𝕊𝕌ℝ𝔼𝕊ℍ",
+               title: "MONSTER LALLU",
                body: "ᴄʟɪᴄᴋ ʜᴇʀᴇ 🦋 !!",
                mediaType: 1,
                thumbnail: thumb,
-               sourceUrl: "http://wa.me/919074692450?text=_៚ʜᴇʟʟᴏ+🪄_"
+               sourceUrl: "http://wa.me/917736129238?text=_៚ʜᴇʟʟᴏ+🪄_"
              }
         // ADDED */ TO REMOVE LINK PREVIEW TYPE
         options.quoted = {
@@ -47,12 +47,12 @@ Function(
         
 let messages = await generateWAMessage(message.jid, { text: `0ཻུ۪۪ꦽꦼ̷⸙‹•══════════════♡᭄
 │       *「 𝗠𝗬 𝗜𝗡𝗧𝗥𝗢 」*
-│ *Name      :* 𝔸𝔹ℍ𝕀𝕊ℍ𝔼𝕂 𝕊𝕌ℝ𝔼𝕊ℍ
+│ *Name      :* MONSTER LALLU
 │ *Place       :* 𝙺𝙴𝚁𝙰𝙻𝙰
 │ *Gender   :*  𝙼𝚊𝚕𝚎
-│ *Age          :* 15
-│ *Phone     :* wa.me/919074692450
-│ *IG ID        :* abhishek_ser
+│ *GROUP          :* KCH
+│ *Phone     :* wa.me/917736129238
+│ *IG ID        :* monster_lallu_
 │ *Status     :* _
 ╰═════ꪶ ཻུ۪۪ꦽꦼ̷⸙ ━ ━ ━ ━ ꪶ ཻུ۪۪ꦽꦼ̷⸙`}, {quoted: message.quoted || ''})
 
