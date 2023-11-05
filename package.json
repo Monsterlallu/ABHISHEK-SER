@@ -3,16 +3,13 @@
     "version": "0.0.1",
     "description": "Customizable WhatsApp Bot",
     "main": "index.js",
-    "type": "module",
-    "directories": {
-        "lib": "lib",
-        "src": "src",
-        "plugins": "plugins"
-    },
-    "scripts": {
-        "start": "node index.js",
-        "test": "node test.js"
-    },
+     "scripts": {
+    "start": "supervisor -s bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farhan-dqz/Julie-Mwol.git"
+  },
     "keywords": [
         "termux-whatsapp-bot",
         "whatsapp-bot",
