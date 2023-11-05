@@ -1,7 +1,7 @@
 const { Function, getBuffer } = require('../lib/')
 const { generateWAMessage, proto } = require('@adiwajshing/baileys');
-const image = 'https://i.imgur.com/BsyNXqH.jpeg' //MAIN IMAGE URL HERE
-const logo = 'https://i.imgur.com/BsyNXqH.jpeg'
+const image = 'https://imgur.com/a/TEoae8i' //MAIN IMAGE URL HERE
+const logo = 'https://imgur.com/a/TEoae8i'
 
 Function(
 	{
