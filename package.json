@@ -25,16 +25,16 @@
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/AbhishekSuresh2/ABHISHEK-SER",
+    "homepage": "https://github.com/Monsterlallu/ABHISHEK-SER",
     "author": {
-        "name": "ABHISHEK SURESH"
+        "name": "MONSTER LALLU"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/AbhishekSuresh2/ABHISHEK-SER.git"
+        "url": "git+https://github.com/Monsterlallu/ABHISHEK-SER.git"
     },
     "bugs": {
-        "url": "https://github.com/AbhishekSuresh2/ABHISHEK-SER/issues"
+        "url": "https://github.com/Monsterlallu/ABHISHEK-SER/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
