@@ -13,7 +13,7 @@
 <a 
 
 <div align="center">
-        <img src="Abhi.jpg" alt="GIF" width="150" height="150"/>
+        <img src="Abhi.jpg" alt="GIF" width="150" height="200"/>
 </p>
 
 <div align="center">
