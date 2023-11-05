@@ -11,7 +11,17 @@ handler.all = async function (m) {
     let av = './src/mp3/bgm.mp3'
     this.sendFile(m.chat, av, 'audio.mp3', null, m, true, { type: 'audioMessage', ptt: true })
    }
-  
+
+  if (/^love$/i.test(m.text) ) {
+    let av = './src/mp3/love.mp3'
+    this.sendFile(m.chat, av, 'audio.mp3', null, m, true, { type: 'audioMessage', ptt: true })
+   }
+
+  if (/^.alive$/i.test(m.text) ) {
+    let av = './src/mp3/.alive.mp3'
+    this.sendFile(m.chat, av, 'audio.mp3', null, m, true, { type: 'audioMessage', ptt: true })
+   } 
+    
 return !0
  }
  
