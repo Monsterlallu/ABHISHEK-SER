@@ -26,7 +26,7 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
     mimetype: 'audio/mp4',
     ptt: true,
     waveform: [100, 0, 100, 0, 100, 0, 100],
-    fileName: "ABHISHEK-SER",
+    fileName: "RAJU-SER",
     contextInfo: {
       mentionedJid: [m.sender],
       externalAdReply: {
